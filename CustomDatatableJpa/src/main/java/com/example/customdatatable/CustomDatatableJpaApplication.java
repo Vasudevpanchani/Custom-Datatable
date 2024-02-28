@@ -1,0 +1,13 @@
+package com.example.customdatatable;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class CustomDatatableJpaApplication {
+
+	public static void main(String[] args) {
+		SpringApplication.run(CustomDatatableJpaApplication.class, args);
+	}
+
+}
